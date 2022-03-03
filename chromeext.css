@@ -1,5 +1,8 @@
 body {
+    background-image: url(https://www.hoteldonandres.com/wp-content/uploads/2016/10/blackboard.jpg);
+    background-size: cover;
     margin: 0;
+
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     min-width: 400px;
@@ -53,17 +56,20 @@ button {
     background-color: lightslategray;
 }
 ul {
-    list-style: none;
-    margin-top: 20px;
+   
+    margin-top: 10px;
     text-decoration: none;
     padding-left: 5px;
-    
+
 }
 li {
     margin-top: 5px;
+    margin-left: 10px;
+
 
 }
 li a {
-    color: #5f9341;
+    color: whitesmoke;
+    font-size: 20px;
   
 }

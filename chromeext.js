@@ -47,7 +47,7 @@ function renderOut(leads) {
 for (let i = 0; i < myLeads.length; i++) {
         listItems += `
         <li> 
-                <a href="${leads[i]}" target="_blank">${leads[i]}</a> 
+                <a href="${leads[i]}" target="_blank">- ${leads[i]}</a> 
         </li>
                 `   
 
