@@ -60,6 +60,8 @@ ul {
     margin-top: 10px;
     text-decoration: none;
     padding-left: 5px;
+    width: 400px;
+    overflow-wrap: break-word;
 
 }
 
@@ -73,4 +75,8 @@ li a {
     color: whitesmoke;
     font-size: 20px;
   
+}
+.container {
+    position: relative;
+    margin-left: 40px;
 }
